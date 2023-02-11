@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blogsPage/static/css/main.e8d0050e.css",
+    "main.js": "/blogsPage/static/js/main.21f93f93.js",
+    "static/js/787.d654f185.chunk.js": "/blogsPage/static/js/787.d654f185.chunk.js",
+    "static/media/computer.jpg": "/blogsPage/static/media/computer.cfa1b8a05b98989bc9e9.jpg",
+    "static/media/windows.jpg": "/blogsPage/static/media/windows.34a57975f91c5540addd.jpg",
+    "static/media/battery.jpg": "/blogsPage/static/media/battery.cdcad22fe8e254d7796c.jpg",
+    "static/media/ram.jpg": "/blogsPage/static/media/ram.450534bde5a7f4ff4d9b.jpg",
+    "static/media/drive.jpg": "/blogsPage/static/media/drive.a5a0d12c829b7d22b008.jpg",
+    "index.html": "/blogsPage/index.html",
+    "main.e8d0050e.css.map": "/blogsPage/static/css/main.e8d0050e.css.map",
+    "main.21f93f93.js.map": "/blogsPage/static/js/main.21f93f93.js.map",
+    "787.d654f185.chunk.js.map": "/blogsPage/static/js/787.d654f185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d0050e.css",
+    "static/js/main.21f93f93.js"
+  ]
+}
