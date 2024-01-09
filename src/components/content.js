@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { blogs } from '../db/blogData';
+// import { blogs } from '../db/blogData';
 
 const Content = ({blog}) => {
 

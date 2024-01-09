@@ -1,7 +1,7 @@
 import React from "react";
 import 'tachyons';
 
-const Bcard = ({name,author, image}) => {
+const Bcard = ({name,author, image, content}) => {
     return(
         <article  className="ph5 bt bb b--black-10">
           <a className="db pv4 ph3 ph0-l no-underline black dim" href="#0">
@@ -12,9 +12,7 @@ const Bcard = ({name,author, image}) => {
               <div className="w-100 w-60-ns pl3-ns">
                 <h1 className="f3 fw1 baskerville mt0 lh-title">{name}</h1>
                 <p className="f6 f5-l lh-copy">
-                  The tech giant says it is ready to begin planning a quantum
-                  computer, a powerful cpu machine that relies on subatomic particles instead
-                  of transistors.
+                  {content}
                 </p>
                 <p className="f6 lh-copy mv0">By {author}</p>
               </div>
